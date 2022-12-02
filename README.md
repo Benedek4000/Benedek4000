@@ -9,6 +9,7 @@
 # Benedek Kovács
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/benedekkovacs/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kovacsbenedek4000@gmail.com)
 
 [![Benedek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benedek4000&show_icons=true&theme=synthwave)](https://github.com/naistangz/github-readme-stats)
 
